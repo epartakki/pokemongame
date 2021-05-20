@@ -10,4 +10,4 @@ Your options are:
 - Bulbasaur (Grass)
 
 
-*Description of how to play still needs to be added in this ReadMe, but you can follow instructions when you run the `.py` file.*
+*Description of how to play still needs to be added in this README, but you can follow instructions when you run the `.py` file.*
